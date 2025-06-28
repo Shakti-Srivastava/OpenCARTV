@@ -1,0 +1,2 @@
+cd C:\Users\Ashu\eclipse-workspace\Opencartv12
+mvn test
